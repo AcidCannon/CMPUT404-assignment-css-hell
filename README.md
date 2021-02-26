@@ -21,4 +21,8 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
-
+Reference
+=================
+Sidebar: https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp  
+John Wick Biography: https://en.wikipedia.org/wiki/John_Wick_(character)  
+John Wick Photo: https://img1.looper.com/img/gallery/the-untold-truth-of-john-wick/intro-1554306903.jpg
