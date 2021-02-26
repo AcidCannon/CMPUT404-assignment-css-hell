@@ -1,0 +1,41 @@
+body {
+    margin-top: 5em;
+    background-color: rgb(4, 4, 4);
+    font-family:'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+h1, h2 {
+    color: white
+}
+
+li {
+    color:white;
+}
+/*sidebar reference: https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp */
+.sidebar{
+    height: 100%;
+    width: 10em;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: gray;
+}
+
+.content {
+    margin-left: 20em;
+    display: block;
+}
+
+.sidebar a {
+    padding: 1em 1em 1em 1em;
+    display: block;
+    text-decoration: none;
+    color:white;
+    text-align: center;
+}
+
+.skills {
+    font-size: xx-large;
+}

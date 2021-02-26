@@ -1,0 +1,33 @@
+body {
+    margin-left: 3em;
+    margin-right: 3em;
+    background-color:bisque;
+}
+
+p {
+    font-family: serif;
+    font-size: larger;
+    text-align: left;
+    padding-left: 0em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 4em;
+}
+
+h2 {
+    /* font-family: serif; */
+    font-weight: bold;
+    font-size: 2em;
+}
+
+img {
+    width: 50% !important;
+    border-style: outset;
+    border-radius: 40px;
+}
